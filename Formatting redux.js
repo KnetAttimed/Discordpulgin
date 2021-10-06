@@ -1,6 +1,6 @@
 /**
- * @name BetterFormattingRedux
- * @version 2.3.12
+ * @name KnetFormattingRedux
+ * @version 1.0.0
  * @authorLink https://twitter.com/IAmZerebos
  * @donate https://paypal.me/ZackRauen
  * @patreon https://patreon.com/Zerebos
